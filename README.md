@@ -10,4 +10,4 @@ Here are some of the tools I use to make things:
 <img width="80" alt="Screen Shot 2021-12-13 at 10 48 42 AM" src="https://user-images.githubusercontent.com/75652493/145870596-c0d0579d-228a-4aea-a26e-87e880804f66.png">
 
 
-https://github.com/anuraghazra/github-readme-stats
+[![Quinn's github stats](https://github-readme-stats.vercel.app/api?username=quinn-lima)](https://github.com/quinn-lima/github-readme-stats)
