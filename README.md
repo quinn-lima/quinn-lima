@@ -9,5 +9,3 @@ Here are some of the tools I use to make things:
 <img width="90" alt="Screen Shot 2021-12-13 at 10 45 42 AM" src="https://user-images.githubusercontent.com/75652493/145870164-1f4efe80-55fd-46f9-aebe-c48ae25002e3.png">
 <img width="80" alt="Screen Shot 2021-12-13 at 10 48 42 AM" src="https://user-images.githubusercontent.com/75652493/145870596-c0d0579d-228a-4aea-a26e-87e880804f66.png">
  
-
-[![Quinn's github stats](https://github-readme-stats.vercel.app/api?username=quinn-lima)](https://github.com/quinn-lima/github-readme-stats)
